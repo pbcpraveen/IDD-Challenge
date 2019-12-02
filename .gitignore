@@ -1,0 +1,4 @@
+*.jpg
+*.png
+dataset/
+idd20k_lite/
