@@ -2,4 +2,4 @@
 *.png
 dataset/
 idd20k_lite/
-.ipynb_checkpoints
+.ipynb_checkpoints/
